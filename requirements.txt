@@ -1,0 +1,13 @@
+# Core UI Framework
+streamlit
+
+# LangChain Ecosystem Core
+langchain-core
+
+# Environment Variable Management
+python-dotenv
+
+# LLM Providers (Choose/Uncomment your preferred option)
+langchain-openai
+langchain-google-genai
+langchain-groq
